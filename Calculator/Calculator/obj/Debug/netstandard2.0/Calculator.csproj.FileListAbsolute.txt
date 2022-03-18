@@ -1,0 +1,30 @@
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\ref\Calculator.dll
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
+C:\Users\colla\Documents\Projects\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\ref\Calculator.dll
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.AssemblyReference.cache
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
+D:\School\Mobile Dev\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
